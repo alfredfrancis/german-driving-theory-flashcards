@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/german-driving-theory-flashcards/static/css/main.54fafe32.css",
+    "main.js": "/german-driving-theory-flashcards/static/js/main.0602f644.js",
+    "static/js/453.27309c4d.chunk.js": "/german-driving-theory-flashcards/static/js/453.27309c4d.chunk.js",
+    "index.html": "/german-driving-theory-flashcards/index.html",
+    "main.54fafe32.css.map": "/german-driving-theory-flashcards/static/css/main.54fafe32.css.map",
+    "main.0602f644.js.map": "/german-driving-theory-flashcards/static/js/main.0602f644.js.map",
+    "453.27309c4d.chunk.js.map": "/german-driving-theory-flashcards/static/js/453.27309c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fafe32.css",
+    "static/js/main.0602f644.js"
+  ]
+}
