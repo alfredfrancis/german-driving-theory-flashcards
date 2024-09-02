@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React, { useState, useEffect } from 'react';
+import Flashcard from './components/Flashcard';
+import data from './data.json';
+import './App.css'; // Import a global CSS file for basic styling
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    const [currentCard, setCurrentCard] = useState(null);
+
+    const getRandomCard = () => {
+        const randomIndex = Math.floor(Math.random() * data.length);
+        setCurrentCard(data[randomIndex]);
+    };
+
+    useEffect(() => {
+        getRandomCard();
+    }, []);
+
+    return (
+        <div className="app-container">
+            {currentCard && (
+                <Flashcard
+                    key={currentCard.question}
+                    question={currentCard.question}
+                    options={currentCard.options}
+                    getNextCard={getRandomCard}
+                />
+            )}
+        </div>
+    );
 }
 
 export default App;

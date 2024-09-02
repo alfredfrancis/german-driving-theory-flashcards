@@ -1,0 +1,2347 @@
+
+[
+    {
+        "question": "What are the consequences for a person driving a motor vehicle under the influence of drugs (e.g. hashish, heroin, cocaine)?",
+        "options": [
+            {
+                "option": "Confiscation of driving licence or driving ban",
+                "checked": true
+            },
+            {
+                "option": "Compulsory medical/psychological examination",
+                "checked": true
+            },
+            {
+                "option": "Fine and/or imprisonment",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "In which instances do you have to approach a pedestrian crossing with particular care?",
+        "options": [
+            {
+                "option": "If pedestrians want to cross the road",
+                "checked": true
+            },
+            {
+                "option": "If the view of the pedestrian crossing is restricted",
+                "checked": true
+            },
+            {
+                "option": "If another vehicle is already waiting at the pedestrian crossing",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How can you tell while driving that an indicator lamp is not working?",
+        "options": [
+            {
+                "option": "The indicator signal light will flash faster than usual",
+                "checked": true
+            },
+            {
+                "option": "You cannot detect a defective indicator lamp while driving",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "When may a tram be overtaken on the left?",
+        "options": [
+            {
+                "option": "When the roadway (not a one-way street) to the right of the tram is blocked by other vehicles",
+                "checked": false
+            },
+            {
+                "option": "When the rails run too far to the right",
+                "checked": true
+            },
+            {
+                "option": "In one-way streets",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When must you use dipped headlights also during the day?",
+        "options": [
+            {
+                "option": "by a misted windscreen",
+                "checked": false
+            },
+            {
+                "option": "by rain",
+                "checked": true
+            },
+            {
+                "option": "by fog or falling snow",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You car has a fault and can no longer be driven. What must you be aware of during towing?",
+        "options": [
+            {
+                "option": "the rear fog lights should also be switched on to indicate the towing procedure",
+                "checked": false
+            },
+            {
+                "option": "a towing bar should be used where possible",
+                "checked": true
+            },
+            {
+                "option": "the force required to operate the brake pedal is significantly greater if the engine has failed",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?",
+        "options": [
+            {
+                "option": "Trucks with a gross vehicle weight rating in excess of 7.5 t",
+                "checked": true
+            },
+            {
+                "option": "Trucks towing a trailer",
+                "checked": true
+            },
+            {
+                "option": "Cars towing a trailer",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "How can you tell when you need to bring your vehicle in for its next vehicle roadworthiness test?",
+        "options": [
+            {
+                "option": "By reading the entry in the operating manual for my vehicle",
+                "checked": false
+            },
+            {
+                "option": "By reading the entry made in the registration certificate Part I",
+                "checked": true
+            },
+            {
+                "option": "By looking at the inspection tag on the rear license plate",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What benefits does the driver of a motor vehicle have by using a cruise control system?",
+        "options": [
+            {
+                "option": "adjusts the speed to the traffic density",
+                "checked": false
+            },
+            {
+                "option": "maintains a constant pre-set speed on a level carriageway",
+                "checked": true
+            },
+            {
+                "option": "makes it easier for the driver to operate the vehicle",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You suddenly have to brake when cornering on a wet carriageway. What special aspects exist with a vehicle equipped with an anti-lock braking system (ABS)?",
+        "options": [
+            {
+                "option": "The steering capability is retained for longer",
+                "checked": true
+            },
+            {
+                "option": "The vehicle will always remain stable",
+                "checked": false
+            },
+            {
+                "option": "It is not possible for the vehicle to skid out of the bend",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Distance in meters in 1 second & reaction path",
+        "options": []
+    },
+    {
+        "question": "( speed / 10 ) * 3",
+        "options": []
+    },
+    {
+        "question": "Breaking Distance",
+        "options": []
+    },
+    {
+        "question": "( speed / 10 ) * ( speed / 10 )",
+        "options": []
+    },
+    {
+        "question": "Breaking Distance in evasive road",
+        "options": []
+    },
+    {
+        "question": "(( speed / 10 ) * ( speed / 10 )) / 2",
+        "options": []
+    },
+    {
+        "question": "Stopping distance",
+        "options": []
+    },
+    {
+        "question": "reaction path + braking distance",
+        "options": []
+    },
+    {
+        "question": "What is the permissible top speed generally in built-up areas?",
+        "options": [
+            {
+                "option": "50",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You double the speed at which you are travelling. How does this affect the braking distance?",
+        "options": [
+            {
+                "option": "It becomes four times longer",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the minimum distance you must leave clear when stopping or parking in front of a pedestrian crossing?",
+        "options": [
+            {
+                "option": "5 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Up to what distances before and behind crossroads and junctions is parking prohibited?",
+        "options": [
+            {
+                "option": "5 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the minimum distance you must leave clear when parking outside a built-up area before a St. Andrew's Cross?",
+        "options": [
+            {
+                "option": "50 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You want to park in front of a St. Andrew's Cross in a built-up area. What is the minimum distance you must leave clear?",
+        "options": [
+            {
+                "option": "5 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Up to what distance is it not allowed to park before or behind a bus or tram stop sign?",
+        "options": [
+            {
+                "option": "15 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?",
+        "options": [
+            {
+                "option": "3 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum distance a load may project backwards beyond the rear reflectors without a projection marker being necessary?",
+        "options": [
+            {
+                "option": "1 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 100 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "130 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 100 km/h and brake normally. What is the braking distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "100 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 100 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "30 meters",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 50 km/h, have a reaction time of 1 second, and brake normally. What is the stopping distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "40",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 50 km/h and brake normally. What is the braking distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "25",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are travelling at 50 km/h and have a reaction time of 1 second. What is the reaction distance according to the rule of thumb?",
+        "options": [
+            {
+                "option": "15",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving on a very narrow road and can see 50 m ahead. What must be your maximum stopping distance?",
+        "options": [
+            {
+                "option": "25",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed a motor vehicle fitted with snow chains is allowed to travel?",
+        "options": [
+            {
+                "option": "50",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed you are allowed to drive a car on roads with one marked lane for each direction outside built-up areas?",
+        "options": [
+            {
+                "option": "100",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed you are allowed to drive a truck with a permissible total mass of 3.0 t on roads with one marked lane for each direction outside built-up areas?",
+        "options": [
+            {
+                "option": "100",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed a truck with a permissible total mass of 3.0 t and trailer may be driven on autobahns?",
+        "options": [
+            {
+                "option": "80",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When must a car with trailer driving outside built-up areas on roads with only one lane for each direction keep a sufficient distance from the car in front so that an overtaking vehicle may pull in?",
+        "options": [
+            {
+                "option": "7",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Which motor vehicles may freely choose their lane inside built-up areas?",
+        "options": [
+            {
+                "option": "3.5t",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Up to which permissible total mass may motor vehicles be parked on specially designated footpaths?",
+        "options": [
+            {
+                "option": "2.8",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the minimum distance a vehicle must leave clear in front of traffic lights if the traffic lights would be concealed by the vehicle?",
+        "options": [
+            {
+                "option": "10",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the recommended speed that applies to cars and motorcycles on autobahns?",
+        "options": [
+            {
+                "option": "130",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What top speed must be entered in the vehicle documents to allow the vehicle's use on autobahns?",
+        "options": [
+            {
+                "option": "60",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Up to what height is a load not allowed to project over the front of the vehicle?",
+        "options": [
+            {
+                "option": "2.5 m",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Between what hours does the Sunday and public holiday driving ban apply?",
+        "options": [
+            {
+                "option": "0 & 22",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum number of trailers allowed to be towed by a class B truck?",
+        "options": [
+            {
+                "option": "1",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed you are allowed to drive a car with trailer on roads outside of built-up areas?",
+        "options": [
+            {
+                "option": "80",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum speed you are allowed to drive a truck with a 3.0 t gross vehicle weight rating with trailer on roads outside of settlements?",
+        "options": [
+            {
+                "option": "80",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the permissible minimum tread depth of the main tread of all your vehicle's tyres?",
+        "options": [
+            {
+                "option": "1.6",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You want to park on the right-hand side edge of the carriageway. How big is the mandatory minimum distance between your vehicle and the solid lane boundary line?",
+        "options": [
+            {
+                "option": "3",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving on a narrow road. About 20 m ahead of you a child suddenly runs onto the roadway. When is a collision unavoidable despite emergency braking?",
+        "options": [
+            {
+                "option": "50 km/h, stopping distance is 27.5 (BD/2 + RP)",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Before which sign must you maintain a distance of at least 10 m, if it would otherwise be concealed by your vehicle?",
+        "options": [
+            {
+                "option": "Stop. Give way.",
+                "checked": true
+            },
+            {
+                "option": "Diagonal cross",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the maximum height allowed above the roadway for a red light marking a load extending to the back?",
+        "options": [
+            {
+                "option": "1.5 m",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "An inspection has been performed because of a technical modification made to your vehicle. What are you obliged to do?",
+        "options": [
+            {
+                "option": "carry the inspection report or confirmation in my vehicle, and have the registration in certificate Part I corrected if necessary",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When are you allowed to switch on rear fog lamps?",
+        "options": [
+            {
+                "option": "The rear fog lamp may only be switched on at a visibility of 50 m and below.",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How must a load be marked in darkness or bad visibility when it extends laterally more than 40 cm beyond the side lights of the vehicle?",
+        "options": [
+            {
+                "option": "By a white light to the front",
+                "checked": true
+            },
+            {
+                "option": "By a red light to the back",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the normal trial period?",
+        "options": [
+            {
+                "option": "2 years",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Which motor vehicles may freely choose their lane inside built-up areas?",
+        "options": [
+            {
+                "option": "3.5t",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Up to what distance is it not allowed to park before or behind a bus or tram stop sign?",
+        "options": [
+            {
+                "option": "15 m",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Why does the brake fluid have to be exchanged according to the instructions of the vehicle manufacturer?",
+        "options": [
+            {
+                "option": "o ensure the brake system does not leak",
+                "checked": false
+            },
+            {
+                "option": "To ensure the brake system continues to function even under higher stress",
+                "checked": true
+            },
+            {
+                "option": "To ensure the percentage of water in the brake fluid does not reach a level which is unacceptable",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When you press on the brake pedal, it touches the floor. Only when you press on it several times does the pedal travel become shorter. What must you do?",
+        "options": [
+            {
+                "option": "Have the brakes repaired",
+                "checked": true
+            },
+            {
+                "option": "t is sufficient to fill up the brake fluid",
+                "checked": false
+            },
+            {
+                "option": "Park the car immediately",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You car has a fault and can no longer be driven. What must you be aware of during towing?",
+        "options": [
+            {
+                "option": "the towing cable should be kept as taut as possible",
+                "checked": true
+            },
+            {
+                "option": "the hazard lights must be switched on on both vehicles",
+                "checked": true
+            },
+            {
+                "option": "he motorway may only be used to shorten the journey to the next car garage",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "During a break you find out that one of the lashing straps has torn. What do you do?",
+        "options": [
+            {
+                "option": "Continue your trip when the load is secured by other sufficient securing means",
+                "checked": true
+            },
+            {
+                "option": "ontinue your trip because a slipping load will be caught by the side panels",
+                "checked": false
+            },
+            {
+                "option": "Continue your trip after the lashing strap has been replaced",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where is it permitted to flash headlights to indicate your intention to overtake?",
+        "options": [
+            {
+                "option": "n darkness in built-up areas",
+                "checked": false
+            },
+            {
+                "option": "In daylight outside built-up areas",
+                "checked": true
+            },
+            {
+                "option": "In darkness outside built-up areas",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What can red-white warning plates on vehicles indicate?",
+        "options": [
+            {
+                "option": "A vehicle with excessive width",
+                "checked": true
+            },
+            {
+                "option": "vehicle transporting dangerous goods",
+                "checked": false
+            },
+            {
+                "option": "A trailer parked on the roadway within a built-up area",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is allowed on priority roads outside built-up areas?",
+        "options": [
+            {
+                "option": "Parking on the hard shoulder",
+                "checked": true
+            },
+            {
+                "option": "Stopping on the right edge of the roadway",
+                "checked": true
+            },
+            {
+                "option": "arking on the roadway",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What can a flashing amber light on a vehicle be a warning for?",
+        "options": [
+            {
+                "option": "For a large transport proceeding at low speed",
+                "checked": true
+            },
+            {
+                "option": "For dangers at roadworks or the scene of an accident",
+                "checked": true
+            },
+            {
+                "option": "For an exceptionally wide vehicle",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where is parking prohibited?",
+        "options": [
+            {
+                "option": "At the edge of the roadway if this would prevent others from using designated parking areas",
+                "checked": true
+            },
+            {
+                "option": "mmediately behind pedestrian crossings",
+                "checked": false
+            },
+            {
+                "option": "Before sunken kerbstones",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you be aware of if you want to transport a load?",
+        "options": [
+            {
+                "option": "may not interfere with me",
+                "checked": true
+            },
+            {
+                "option": "may not slide even when I brake",
+                "checked": true
+            },
+            {
+                "option": "ay never project over the front of the vehicle",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Where are you allowed to park on the left in the direction of travel?",
+        "options": [
+            {
+                "option": "Where there are rails on the right-hand side",
+                "checked": true
+            },
+            {
+                "option": "In one-way streets",
+                "checked": true
+            },
+            {
+                "option": "here parking is prohibited on the right",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Where should a vehicle stop at these traffic lights with green arrow sign?",
+        "options": [
+            {
+                "option": "Before the crossing or junction if there is no stop line",
+                "checked": true
+            },
+            {
+                "option": "here is no need to stop",
+                "checked": false
+            },
+            {
+                "option": "At the stop line",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "At which places where there are no traffic signs regulating priority does the rule \"right before left\" apply?",
+        "options": [
+            {
+                "option": "At junctions of farm tracks or forest tracks with other roads",
+                "checked": false
+            },
+            {
+                "option": "At crossroads and junctions",
+                "checked": true
+            },
+            {
+                "option": "At junctions with sunken kerbstone",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "You are driving your car and caravan trailer (length of combination of vehicles exceeding 7 m) outside built-up areas on a road with only one marked lane in each direction. What must you remember?",
+        "options": [
+            {
+                "option": "As a rule, the distance from a car in front must be great enough to allow an overtaking car to pull in",
+                "checked": true
+            },
+            {
+                "option": "You may not drive faster than 60 km/h",
+                "checked": false
+            },
+            {
+                "option": "The distance from the car in front must not be greater than the length of your combination of vehicles in order to make best use of traffic space",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What should you call the attention of your passengers to before exiting?",
+        "options": [
+            {
+                "option": "they should heed the pedestrians walking on the right-side",
+                "checked": true
+            },
+            {
+                "option": "cyclists are required to wait on cycle paths",
+                "checked": false
+            },
+            {
+                "option": "they should heed the traffic flowing on the left-side",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "The time on a parking meter has not yet run out. What do you do?",
+        "options": [
+            {
+                "option": "only use the time left on the meter when using a parking disc",
+                "checked": false
+            },
+            {
+                "option": "not use the time left on the meter",
+                "checked": false
+            },
+            {
+                "option": "use the time left on the meter without inserting more money",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where are you allowed to park a trailer with a permissible total mass exceeding 2 t in built-up areas regularly on sundays and public holidays and between 10 p.m. and 6 a.m.?",
+        "options": [
+            {
+                "option": "In industrial areas",
+                "checked": true
+            },
+            {
+                "option": "In special areas reserved for recreation purposes, on sufficiently wide roads",
+                "checked": false
+            },
+            {
+                "option": "In wholly residential areas, on specially designated parking spaces",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "On what roads does the recommended speed of 130 km/h apply?",
+        "options": [
+            {
+                "option": "Motorways",
+                "checked": true
+            },
+            {
+                "option": "On vehicle roadways not inside a built-up area, with separate carriageways for each direction",
+                "checked": true
+            },
+            {
+                "option": "On vehicle roadways not inside a built-up area, with at least two marked lanes for each direction",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where are parking lights sufficient when parking a car on unlit roads?",
+        "options": [
+            {
+                "option": "Outside built-up areas",
+                "checked": false
+            },
+            {
+                "option": "On the hard shoulder of autobahns",
+                "checked": false
+            },
+            {
+                "option": "In built-up areas",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are holding a driving permit class B. Your car has the following specifications: - empty mass 1900 kg - permissible total mass 2400 kg - permissible towed load 1500 kg Which trailer are you allowed to tow",
+        "options": [
+            {
+                "option": "1500 kg",
+                "checked": false
+            },
+            {
+                "option": "1200 kg",
+                "checked": false
+            },
+            {
+                "option": "1000 kg",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Total mass of vehicle and trailer shouldnt exceed 3500kg.",
+        "options": []
+    },
+    {
+        "question": "What should I be aware of when using an adaptive cruise control system?",
+        "options": [
+            {
+                "option": "The system can be affected by heavy rain or snow fall",
+                "checked": true
+            },
+            {
+                "option": "Activating the accelerator or brake pedal can always override the system",
+                "checked": true
+            },
+            {
+                "option": "I must remain constantly attentive even when using the system for a longer period",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "If the horn does not work, what can be the reason?",
+        "options": [
+            {
+                "option": "The horn's operating device is defective",
+                "checked": true
+            },
+            {
+                "option": "Blown fuse",
+                "checked": true
+            },
+            {
+                "option": "Defective starter",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "The noise of the exhaust has suddenly become louder than usual. What do you do?",
+        "options": [
+            {
+                "option": "Renew the engine air filter",
+                "checked": false
+            },
+            {
+                "option": "Nothing because nobody is endangered",
+                "checked": false
+            },
+            {
+                "option": "Check the exhaust system",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What increases the effect of centrifugal force on the vehicle when driving round bends?",
+        "options": [
+            {
+                "option": "Smaller radius of a bend",
+                "checked": true
+            },
+            {
+                "option": "Higher tyre pressure",
+                "checked": false
+            },
+            {
+                "option": "Higher speed",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you know about catalytic converters?",
+        "options": [
+            {
+                "option": "A catalytic converter can be damaged or destroyed when the car is towed to start",
+                "checked": true
+            },
+            {
+                "option": "Unburned fuel in the catalytic converter cannot cause any damage when the engine starts",
+                "checked": false
+            },
+            {
+                "option": "A catalytic converter can be damaged when the engine starts after many unsuccessful attempts",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Visibility is considerably reduced. When are you allowed to switch on fog headlamps?",
+        "options": [
+            {
+                "option": "In fog",
+                "checked": true
+            },
+            {
+                "option": "In rain",
+                "checked": true
+            },
+            {
+                "option": "In falling snow",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When are you allowed to use fog headlamps also during the day?",
+        "options": [
+            {
+                "option": "by rain",
+                "checked": true
+            },
+            {
+                "option": "by ice on the windscreen",
+                "checked": false
+            },
+            {
+                "option": "by fog or falling snow",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving at 80 km/h behind a motor vehicle. What is the minimum safe distance you must observe?",
+        "options": [
+            {
+                "option": "A distance of 15 metres",
+                "checked": false
+            },
+            {
+                "option": "A \"distance of 1 second\"",
+                "checked": false
+            },
+            {
+                "option": "A \"distance of 2 seconds\"",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you reckon with when it starts raining after a long period of dry weather?",
+        "options": [
+            {
+                "option": "Shorter braking distance",
+                "checked": false
+            },
+            {
+                "option": "Bad visibility immediately upon switching the windscreen wipers on",
+                "checked": true
+            },
+            {
+                "option": "A dangerous greasy film on the surface of the road",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you take into consideration when selecting your speed?",
+        "options": [
+            {
+                "option": "Visibility and weather conditions",
+                "checked": true
+            },
+            {
+                "option": "The condition of the road and traffic conditions",
+                "checked": true
+            },
+            {
+                "option": "Personal driving ability",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When driving on main roads, which vehicles must use the hard shoulders where possible?",
+        "options": [
+            {
+                "option": "Small-engine motorcycles",
+                "checked": false
+            },
+            {
+                "option": "Mopeds",
+                "checked": true
+            },
+            {
+                "option": "Slow-moving agricultural tractors and machinery",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You want to leave a property lot and turn into a road while passing over a footpath. What must you look out for?",
+        "options": [
+            {
+                "option": "You should be directed by another person if necessary",
+                "checked": true
+            },
+            {
+                "option": "Pedestrians on the footpath may not be endangered",
+                "checked": true
+            },
+            {
+                "option": "First take note of the flowing traffic on the road",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "How can you tell if a horse-drawn carriage wants to change direction?",
+        "options": [
+            {
+                "option": "A flashing indicator",
+                "checked": true
+            },
+            {
+                "option": "A traffic paddle is displayed",
+                "checked": true
+            },
+            {
+                "option": "The driver extends his arm",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You overtake on a motorway. Behind you a car approaches at high speed, with headlights and indicators flashing. What should you do?",
+        "options": [
+            {
+                "option": "I pull over into the right-hand lane as soon as possible",
+                "checked": true
+            },
+            {
+                "option": "I gently decelerate",
+                "checked": false
+            },
+            {
+                "option": "I continue overtaking swiftly",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "At which impact speed must you reckon with serious or deadly injuries when no safety belt is worn?",
+        "options": [
+            {
+                "option": "From 30 km/h onward",
+                "checked": true
+            },
+            {
+                "option": "From 80 km/h onward",
+                "checked": false
+            },
+            {
+                "option": "From 50 km/h onward",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What are the advantages of an automatic anti-locking device (ABS)?",
+        "options": [
+            {
+                "option": "On setting off, wheelspin is prevented",
+                "checked": false
+            },
+            {
+                "option": "It is possible to brake heavily and avoid an obstacle at the same time",
+                "checked": true
+            },
+            {
+                "option": "The danger of tipping over is reduced when braking on bends",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "When are you allowed to switch on rear fog lamps?",
+        "options": [
+            {
+                "option": "When fog reduces visibility to 100 m",
+                "checked": false
+            },
+            {
+                "option": "When fog reduces visibility to less than 50 m",
+                "checked": true
+            },
+            {
+                "option": "When visibility is reduced by heavy rain",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe?",
+        "options": [
+            {
+                "option": "The roof load specifications contained in the registration certificate Part I",
+                "checked": false
+            },
+            {
+                "option": "The gross vehicle weight rating of my car",
+                "checked": true
+            },
+            {
+                "option": "The vehicle manufacturer's roof load specifications in the operating manual",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What does a rear-wheel drive car tend to do if you accelerate too much on a bend?",
+        "options": [
+            {
+                "option": "The front end tends to turn out to the side",
+                "checked": false
+            },
+            {
+                "option": "The rear end tends to turn out to the side",
+                "checked": true
+            },
+            {
+                "option": "The car tends to understeer",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Where is it permitted to flash headlights to indicate your intention to overtake?",
+        "options": [
+            {
+                "option": "In darkness in built-up areas",
+                "checked": false
+            },
+            {
+                "option": "In daylight outside built-up areas",
+                "checked": true
+            },
+            {
+                "option": "In darkness outside built-up areas",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How must a load projecting more than 1 m beyond the rear reflectors of the vehicle be marked in darkness?",
+        "options": [
+            {
+                "option": "By an orange warning plate",
+                "checked": false
+            },
+            {
+                "option": "By switching the fog tail lamp on",
+                "checked": false
+            },
+            {
+                "option": "By a red light and red rear reflector",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving in a tunnel and approach the end of a traffic jam. What do you do?",
+        "options": [
+            {
+                "option": "At the end of the traffic jam, switch off the engine and leave the vehicle",
+                "checked": false
+            },
+            {
+                "option": "Make a U-turn and leave the tunnel",
+                "checked": false
+            },
+            {
+                "option": "Switch on the hazard warning lights",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What are the special conditions when driving along tree-lined avenues?",
+        "options": [
+            {
+                "option": "The trees provide protection from the sides",
+                "checked": false
+            },
+            {
+                "option": "There are particularly narrow and blind bends",
+                "checked": true
+            },
+            {
+                "option": "The narrow and often cambered roadway requires special caution when there is oncoming traffic",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You have sold your vehicle which is still registered. The buyer has paid. What must you do?",
+        "options": [
+            {
+                "option": "Inform the registration centre immediately of the buyer's name and address",
+                "checked": true
+            },
+            {
+                "option": "Remove the test stamp from the official registration plate",
+                "checked": false
+            },
+            {
+                "option": "Hand over the vehicle registration certificate (Fahrzeugschein) and vehicle registration book (Fahrzeugbrief) or permit for use (Betriebserlaubnis) to the buyer against receipt",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Whilst driving, your vehicle pulls to the right. What can be the reason for this?",
+        "options": [
+            {
+                "option": "Steering axle bent",
+                "checked": true
+            },
+            {
+                "option": "Loose steering shock absorber",
+                "checked": false
+            },
+            {
+                "option": "Wheel alignment not in order",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the effect of an automatic anti-locking device (ABS)?",
+        "options": [
+            {
+                "option": "Steering control is largely retained when braking",
+                "checked": true
+            },
+            {
+                "option": "Aquaplaning is prevented",
+                "checked": false
+            },
+            {
+                "option": "The vehicle is braked in the best possible way also on wet roadways",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How could a dangerous situation arise?",
+        "options": [
+            {
+                "option": "Through failure to maintain suitable speed",
+                "checked": true
+            },
+            {
+                "option": "By having lights turned on during day",
+                "checked": false
+            },
+            {
+                "option": "Through vehicles at a standstill",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What can cause in aquaplaning (sliding on wet roads) on wet road surfaces?",
+        "options": [
+            {
+                "option": "High speed",
+                "checked": true
+            },
+            {
+                "option": "Grooves in the roadway",
+                "checked": true
+            },
+            {
+                "option": "Worn tyres",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "A traffic jam has formed on a three-lane autobahn. Where must the channel for emergency vehicles be formed?",
+        "options": [
+            {
+                "option": "Between the left-hand and the middle lanes",
+                "checked": true
+            },
+            {
+                "option": "On the hard shoulder",
+                "checked": false
+            },
+            {
+                "option": "Between the middle and right-hand lanes",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "The windscreen wipers on your car do not function. What can be the cause of this?",
+        "options": [
+            {
+                "option": "Too much water in the windscreen washer",
+                "checked": false
+            },
+            {
+                "option": "Windscreen wiper motor defective",
+                "checked": true
+            },
+            {
+                "option": "Blown fuse",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving on a road not within a built-up area and want to overtake a car. Where is the very latest point at which the overtaking manoeuvre should be completed?",
+        "options": [
+            {
+                "option": "Before the start of a lane marking",
+                "checked": false
+            },
+            {
+                "option": "Before the start of a solid line (traffic lane boundary)",
+                "checked": true
+            },
+            {
+                "option": "Before a no-overtaking sign for vehicles of all types",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What should be noted when loading vehicles?",
+        "options": [
+            {
+                "option": "Loads more than 2.50 m high may not project forwards by more than 50 cm",
+                "checked": true
+            },
+            {
+                "option": "It is not necessary to secure heavy loads",
+                "checked": false
+            },
+            {
+                "option": "Loads that project beyond the retro-reflectors by more than 1 m, must be labelled",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where is parking prohibited?",
+        "options": [
+            {
+                "option": "At the edge of the roadway if this would prevent others from using designated parking areas",
+                "checked": true
+            },
+            {
+                "option": "On priority roads within built-up areas",
+                "checked": false
+            },
+            {
+                "option": "On priority roads outside built-up areas",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "After a longer journey travelling at about 120 km/h, you want to exit the motorway. What must you be aware of when doing so?",
+        "options": [
+            {
+                "option": "I check the speedometer to make sure I do not underestimate my speed",
+                "checked": true
+            },
+            {
+                "option": "I maintain my speed while on the exit lane, so as not to impede the traffic behind me",
+                "checked": false
+            },
+            {
+                "option": "I signal in good time and then brake while on the exit lane, so as not to impede the traffic behind me",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving with main beam lights on in darkness. When do you have to dip your headlights?",
+        "options": [
+            {
+                "option": "When a vehicle is driving close in front",
+                "checked": true
+            },
+            {
+                "option": "If there are pedestrians in front moving in the same direction",
+                "checked": false
+            },
+            {
+                "option": "When a vehicle is oncoming",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you observe particularly when driving through a tunnel?",
+        "options": [
+            {
+                "option": "Signs for safety installations such as emergency exits and emergency telephones",
+                "checked": true
+            },
+            {
+                "option": "You may be distracted by light effects",
+                "checked": true
+            },
+            {
+                "option": "You may be distracted by very loud noise",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Why is it dangerous if passengers sitting in the rear do not wear their seatbelts?",
+        "options": [
+            {
+                "option": "could propel these persons from the vehicle",
+                "checked": true
+            },
+            {
+                "option": "could result in injuries even at low speeds",
+                "checked": true
+            },
+            {
+                "option": "could result in injuries to persons in the front seats",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?",
+        "options": [
+            {
+                "option": "1/5 the speedometer reading in metres",
+                "checked": false
+            },
+            {
+                "option": "1/2 the speedometer reading in metres",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "When driving, you notice that the car constantly pulls to the left. What could be the cause of this?",
+        "options": [
+            {
+                "option": "Incorrect wheel adjustment at the front axle (track, wheel camber)",
+                "checked": true
+            },
+            {
+                "option": "Too little air in the front left tyre",
+                "checked": true
+            },
+            {
+                "option": "The left rear tyre is extensively worn",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Having committed several violations during the probationary period, the authorities have ordered a driver to attend an advanced seminar. The new driver fails to comply with the order. What may he now anticipate?",
+        "options": [
+            {
+                "option": "The withdrawal of the driving licence",
+                "checked": true
+            },
+            {
+                "option": "A notice to pay a public fine",
+                "checked": false
+            },
+            {
+                "option": "Additional points in the Central Register of Road Traffic Offenders",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What must you bear in mind when loading a single-axle trailer?",
+        "options": [
+            {
+                "option": "axle load",
+                "checked": true
+            },
+            {
+                "option": "total mass",
+                "checked": true
+            },
+            {
+                "option": "load on the coupling",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Why should you avoid driving off at a rapid pace?",
+        "options": [
+            {
+                "option": "Because of heavier tyre wear",
+                "checked": true
+            },
+            {
+                "option": "Because the noise you cause annoys others",
+                "checked": true
+            },
+            {
+                "option": "Because this is a great strain on the rear brake",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "How can you prevent a child from opening a door while the vehicle is moving?",
+        "options": [
+            {
+                "option": "the child safety locks on the rear doors",
+                "checked": true
+            },
+            {
+                "option": "the central locking system",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Who is parked?",
+        "options": [
+            {
+                "option": "Anyone who waits longer than 3 minutes at a closed level crossing barrier",
+                "checked": false
+            },
+            {
+                "option": "Anyone who stops for more than 3 minutes",
+                "checked": true
+            },
+            {
+                "option": "Anyone who leaves his vehicle",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What changes in a car when towing a two-axle trailer?",
+        "options": [
+            {
+                "option": "Acceleration capacity is reduced",
+                "checked": true
+            },
+            {
+                "option": "More space is needed when turning and driving round bends",
+                "checked": true
+            },
+            {
+                "option": "Driving stability increases",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "How do you pass through an incline safely? I take my foot off the accelerator completely and",
+        "options": [
+            {
+                "option": "switch the ignition off",
+                "checked": false
+            },
+            {
+                "option": "drive in neutral",
+                "checked": false
+            },
+            {
+                "option": "select a gear in which I am not required to brake a great deal",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Your car\"s steering wheel wobbles while you are driving. What can be the reason?",
+        "options": [
+            {
+                "option": "Wheels are unbalanced",
+                "checked": true
+            },
+            {
+                "option": "Shock absorbers are defective",
+                "checked": true
+            },
+            {
+                "option": "Wheel suspension-spring is damaged",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving in urban traffic on a dry roadway in a stream of traffic travelling at a speed of 50 km/h. What is the minimum safe distance you must keep from the vehicle in front?",
+        "options": [
+            {
+                "option": "15 m or approximately 3 car lengths",
+                "checked": true
+            },
+            {
+                "option": "10 m or approximately 2 car lengths",
+                "checked": false
+            },
+            {
+                "option": "5 m or approximately 1 car length",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What must you do on encountering sudden dense fog driving at daytime?",
+        "options": [
+            {
+                "option": "Switch on dipped headlights",
+                "checked": true
+            },
+            {
+                "option": "Adapt speed immediately to visibility conditions",
+                "checked": true
+            },
+            {
+                "option": "Only switch on parking lights",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "You want to turn out of a road with a sunken kerbstone into another road. A car is coming from the left. What applies here?",
+        "options": [
+            {
+                "option": "The rule \"right before left\"",
+                "checked": false
+            },
+            {
+                "option": "Whoever turns into a road over a sunken kerbstone must wait",
+                "checked": true
+            },
+            {
+                "option": "The sunken kerbstone is of no relevance for the obligation to wait",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "You are approaching a regular bus which has stopped in the opposite direction at a bus stop on your roadway and its hazard warning lights are switched on. What must you expect?",
+        "options": [
+            {
+                "option": "Passengers will cross the roadway in order to catch the bus",
+                "checked": true
+            },
+            {
+                "option": "Passengers will cross the roadway only after the hazard warning lights of the bus are switched off",
+                "checked": false
+            },
+            {
+                "option": "Passengers leaving the bus will suddenly cross the roadway",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How are you allowed to transport a five-year-old child in your car?",
+        "options": [
+            {
+                "option": "In a back seat with standard three-point safety belt",
+                "checked": false
+            },
+            {
+                "option": "In a suitable and approved child seat with test mark",
+                "checked": true
+            },
+            {
+                "option": "On a back seat with waist belt fastened",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What is required when your vehicle is no longer covered by motor liability insurance?",
+        "options": [
+            {
+                "option": "must be submitted to the registration centre",
+                "checked": false
+            },
+            {
+                "option": "must be de-registered at the registration centre",
+                "checked": true
+            },
+            {
+                "option": "may no longer be used in road traffic",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What is designated as towed load?",
+        "options": [
+            {
+                "option": "The actual load being towed",
+                "checked": true
+            },
+            {
+                "option": "The useful load of the trailer",
+                "checked": false
+            },
+            {
+                "option": "The permissible total mass of the trailer",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What could happen if the cruise control system (speed limiter) is switched off too late?",
+        "options": [
+            {
+                "option": "Excessively high cornering speed",
+                "checked": true
+            },
+            {
+                "option": "Exceeding the permissible maximum speed",
+                "checked": true
+            },
+            {
+                "option": "Tailgating",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What must you do to end an overtaking manoeuvre?",
+        "options": [
+            {
+                "option": "Move over to the right-hand side of the roadway right in front of the vehicle you have overtaken",
+                "checked": false
+            },
+            {
+                "option": "Move over to the right as soon as possible without inconveniencing the vehicle you have overtaken",
+                "checked": true
+            },
+            {
+                "option": "Signal your intention to draw in clearly and in good time",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Which vehicles may be overtaken only by maintaining a specially great lateral distance?",
+        "options": [
+            {
+                "option": "Trams",
+                "checked": false
+            },
+            {
+                "option": "Motorcycles",
+                "checked": true
+            },
+            {
+                "option": "Bicycles",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving on a good quality road in good visibility conditions. Within what distance must you be able to stop?",
+        "options": [
+            {
+                "option": "the stretch of road visible to me",
+                "checked": true
+            },
+            {
+                "option": "half of the stretch of road visible to me",
+                "checked": false
+            },
+            {
+                "option": "twice the stretch of road visible to me",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Why are short journeys performed with a cold engine especially damaging to the environment?",
+        "options": [
+            {
+                "option": "the vehicle's battery will be over-charged",
+                "checked": false
+            },
+            {
+                "option": "more fuel is consumed",
+                "checked": true
+            },
+            {
+                "option": "the level of material wear is higher",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?",
+        "options": [
+            {
+                "option": "Relieve the car brakes by disengaging the clutch at frequent intervals",
+                "checked": false
+            },
+            {
+                "option": "Make allowance for the pushing effect of the trailer",
+                "checked": true
+            },
+            {
+                "option": "Reduce speed, if necessary, engage low gear in time, be ready to brake",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What applies on clearways for motor vehicles only?",
+        "options": [
+            {
+                "option": "In darkness, you may drive faster than the range of visibility allowed by dipped headlights",
+                "checked": false
+            },
+            {
+                "option": "No U-turns",
+                "checked": true
+            },
+            {
+                "option": "Join the clearway only at crossroads and junctions",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Where does aquaplaning (sliding on wet roads) occur particularly often?",
+        "options": [
+            {
+                "option": "Where there are grooves in the roadway",
+                "checked": true
+            },
+            {
+                "option": "At level crossings",
+                "checked": false
+            },
+            {
+                "option": "In dips in the roadway",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What do you have to particularly remember at crossroads and junctions in a built-up area?",
+        "options": [
+            {
+                "option": "The rule \"right before left\" applies without exception at all crossroads and junctions",
+                "checked": false
+            },
+            {
+                "option": "Intersecting roads may have priority even though they are narrow and less well developed",
+                "checked": true
+            },
+            {
+                "option": "A better developed road always has priority",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "You want to overtake cyclists. What should be noted when selecting the distance between the cyclists and the car?",
+        "options": [
+            {
+                "option": "1.0 m between the cyclist and the car is always sufficient",
+                "checked": false
+            },
+            {
+                "option": "The speed of my vehicle",
+                "checked": true
+            },
+            {
+                "option": "How the cyclists are acting",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Why should you not apply the clutch when driving on a long, steep downhill slope?",
+        "options": [
+            {
+                "option": "Because the braking action of the engine will have no effect",
+                "checked": true
+            },
+            {
+                "option": "Because in this case the brake servo unit will no longer function",
+                "checked": false
+            },
+            {
+                "option": "Because this causes unnecessary wear of the brakes",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are the new owner of a licensed vehicle. What do you have to do?",
+        "options": [
+            {
+                "option": "notify the licensing authority of the change in ownership",
+                "checked": true
+            },
+            {
+                "option": "generally arrange for a vehicle roadworthiness test to be performed at the time of the change of ownership",
+                "checked": false
+            },
+            {
+                "option": "present the licensing authority with proof of the existence of liability insurance for the vehicle",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Why must you also drive with dipped headlight during the day when visibility is impaired by fog, rain or falling snow?",
+        "options": [
+            {
+                "option": "So that you can drive at a higher speed",
+                "checked": false
+            },
+            {
+                "option": "So that you will be more easily seen by other road users",
+                "checked": true
+            },
+            {
+                "option": "So that you can see traffic signs at greater distances",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What does a front-wheel drive car tend to do if you accelerate too much on a bend?",
+        "options": [
+            {
+                "option": "The vehicle tends to oversteer",
+                "checked": false
+            },
+            {
+                "option": "The front end tends to turn out to the side",
+                "checked": true
+            },
+            {
+                "option": "The rear end tends to turn out to the side",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What are the advantages of an automatic anti-locking device (ABS)?",
+        "options": [
+            {
+                "option": "Bends can be taken considerably faster",
+                "checked": false
+            },
+            {
+                "option": "The wheels do not lock when braking",
+                "checked": true
+            },
+            {
+                "option": "Steering control is retained even when braking heavily",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You hit a tyre against a hard obstacle with force. What must you do?",
+        "options": [
+            {
+                "option": "Retighten the wheel bolts",
+                "checked": false
+            },
+            {
+                "option": "Have the tyres and rim checked immediately",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What should you avoid for reasons of environmental protection?",
+        "options": [
+            {
+                "option": "Unnecessary trips",
+                "checked": true
+            },
+            {
+                "option": "Loud music with windows opened",
+                "checked": true
+            },
+            {
+                "option": "Letting the engine warm up when the vehicle is stationary",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "A safety belt lock does not close. What do you do?",
+        "options": [
+            {
+                "option": "Have the lock repaired",
+                "checked": true
+            },
+            {
+                "option": "Drive at a low speed",
+                "checked": false
+            },
+            {
+                "option": "Nothing because the seat is equipped with an airbag",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Where is stopping prohibited?",
+        "options": [
+            {
+                "option": "At bus stops",
+                "checked": false
+            },
+            {
+                "option": "Outside parking areas on autobahns and clearways for motor vehicles only",
+                "checked": true
+            },
+            {
+                "option": "Near or on sharp bends",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You would like to cross over a priority road. The view to both sides is very restricted due to parked vehicles. What should you do?",
+        "options": [
+            {
+                "option": "I quickly cross over the junction",
+                "checked": false
+            },
+            {
+                "option": "I carefully ease my way into the junction",
+                "checked": true
+            },
+            {
+                "option": "I sound my horn to warn crossing traffic",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "Which vehicles must you allow to set off from marked bus stops?",
+        "options": [
+            {
+                "option": "Regular buses",
+                "checked": true
+            },
+            {
+                "option": "Taxis",
+                "checked": false
+            },
+            {
+                "option": "School buses",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "Who is responsible for the roadworthiness of a licensed vehicle?",
+        "options": [
+            {
+                "option": "The owner",
+                "checked": true
+            },
+            {
+                "option": "The motor liability insurance company",
+                "checked": false
+            },
+            {
+                "option": "The driver",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "A police signalling disc is displayed towards you from a vehicle driving in front of you. What does this mean?",
+        "options": [
+            {
+                "option": "I have to turn in the direction indicated",
+                "checked": false
+            },
+            {
+                "option": "I may not overtake the vehicle",
+                "checked": true
+            },
+            {
+                "option": "I have to follow the vehicle until it stops",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "What are you obliged to do, if you are involved in a road traffic accident?",
+        "options": [
+            {
+                "option": "provide aid if anyone has been injured",
+                "checked": true
+            },
+            {
+                "option": "secure the scene of the accident",
+                "checked": true
+            },
+            {
+                "option": "stop and determine the consequences of the accident",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "How can you reduce the noise made by a car?",
+        "options": [
+            {
+                "option": "By using all-terrain tyres",
+                "checked": false
+            },
+            {
+                "option": "By driving at a low engine speed",
+                "checked": true
+            },
+            {
+                "option": "By removing the air filter",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What must be regularly serviced to prevent high fuel consumption and excessive pollutant emission?",
+        "options": [
+            {
+                "option": "Ignition system",
+                "checked": true
+            },
+            {
+                "option": "Engine air filter",
+                "checked": true
+            },
+            {
+                "option": "Carburettor or fuel-injection system",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "While you are driving, the airbag control light stays on constantly. What must you do?",
+        "options": [
+            {
+                "option": "Go to a garage workshop",
+                "checked": true
+            },
+            {
+                "option": "Take the vehicle off the road immediately",
+                "checked": false
+            },
+            {
+                "option": "Nothing because it is an indication for the garage workshop",
+                "checked": false
+            }
+        ]
+    },
+    {
+        "question": "What do you do when a bus has stopped at a bus stop with its hazard warning lights switched on?",
+        "options": [
+            {
+                "option": "Drive past at a sufficient distance in order to exclude endangering pedestrians",
+                "checked": true
+            },
+            {
+                "option": "Wait if passengers could be inconvenienced",
+                "checked": true
+            },
+            {
+                "option": "Drive past at walking speed only and, if necessary, stop",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "You are driving a slow-moving vehicle on a main road. How can you facilitate faster-moving vehicles in overtaking?",
+        "options": [
+            {
+                "option": "onto the parking area",
+                "checked": true
+            },
+            {
+                "option": "onto the hard shoulder",
+                "checked": true
+            },
+            {
+                "option": "into a lay-by",
+                "checked": true
+            }
+        ]
+    },
+    {
+        "question": "The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?",
+        "options": [
+            {
+                "option": "Anti-lock braking system (ABS) fails",
+                "checked": false
+            },
+            {
+                "option": "Longer braking distance",
+                "checked": true
+            },
+            {
+                "option": "Your car can veer to the side",
+                "checked": true
+            }
+        ]
+    }
+]
