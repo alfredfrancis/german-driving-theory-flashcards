@@ -1,0 +1,129 @@
+.question-paper-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.filter-container {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filter-container label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #495057;
+}
+
+.filter-container input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.question-item {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+    transition: box-shadow 0.3s ease;
+}
+
+.question-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.index-column {
+    font-size: 18px;
+    font-weight: bold;
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+.question-column {
+    margin-bottom: 15px;
+}
+
+.question {
+    font-size: 16px;
+    color: #212529;
+    line-height: 1.5;
+    margin-bottom: 2rem;
+    text-align: left;
+}
+
+.seen-flag {
+    display: inline-block;
+    font-size: 12px;
+    color: #6c757d;
+    background-color: #e9ecef;
+    padding: 2px 6px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
+
+.answer-column button {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+}
+
+.answer-column button:hover {
+    background-color: #0056b3;
+}
+
+.answer-column button:last-child {
+    background-color: #6c757d;
+}
+
+.answer-column button:last-child:hover {
+    background-color: #5a6268;
+}
+
+.answer {
+    margin-top: 15px;
+    color: #495057;
+}
+
+.option {
+    margin-bottom: 5px;
+    padding: 5px 0;
+}
+
+.correct {
+    color: #28a745;
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .question-paper-container {
+        padding: 20px 15px;
+    }
+
+    .question-item {
+        padding: 15px;
+    }
+
+    .answer-column button {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+.question-paper {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

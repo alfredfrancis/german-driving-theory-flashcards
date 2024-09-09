@@ -1,6 +1,7 @@
-// src/App.js
 import React, { useState, useEffect, useCallback } from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Flashcard from './components/Flashcard';
+import QuestionPaper from './components/QuestionPaper';
 import data from './data.json';
 import './App.css';
 
@@ -39,16 +40,24 @@ function App() {
     }, []);
 
     return (
-        <div className="app-container">
-            {currentCard && (
-                <Flashcard
-                    key={currentCard.question}
-                    question={currentCard.question}
-                    options={currentCard.options}
-                    getNextCard={getNextCard}
-                />
-            )}
-        </div>
+        <Router>
+
+            <Routes>
+                <Route path="/" element={
+                    <div className="app-container">
+                        {currentCard && (
+                            <Flashcard
+                                key={currentCard.question}
+                                question={currentCard.question}
+                                options={currentCard.options}
+                                getNextCard={getNextCard}
+                            />
+                        )}
+                    </div>
+                } />
+                <Route path="/question-paper" element={<QuestionPaper />} />
+            </Routes>
+        </Router>
     );
 }
 

@@ -168,35 +168,31 @@
     },
     {
         "question": "Distance in meters in 1 second & reaction path",
-        "options": []
-    },
-    {
-        "question": "( speed / 10 ) * 3",
-        "options": []
+        "options": [{
+            "option": "( speed / 10 ) * 3",
+            "checked": true
+        }]
     },
     {
         "question": "Breaking Distance",
-        "options": []
-    },
-    {
-        "question": "( speed / 10 ) * ( speed / 10 )",
-        "options": []
+        "options": [{
+            "option": "( speed / 10 ) * ( speed / 10 )",
+            "checked": true
+        }]
     },
     {
         "question": "Breaking Distance in evasive road",
-        "options": []
-    },
-    {
-        "question": "(( speed / 10 ) * ( speed / 10 )) / 2",
-        "options": []
+        "options": [{
+            "option": "(( speed / 10 ) * ( speed / 10 )) / 2",
+            "checked": true
+        }]
     },
     {
         "question": "Stopping distance",
-        "options": []
-    },
-    {
-        "question": "reaction path + braking distance",
-        "options": []
+        "options": [{
+            "option": "reaction path + braking distance",
+            "checked": true
+        }]
     },
     {
         "question": "What is the permissible top speed generally in built-up areas?",
@@ -265,7 +261,7 @@
         "question": "What is the maximum length of time you are allowed to stop at a bus stop provided you do not present an obstruction to buses?",
         "options": [
             {
-                "option": "3 meters",
+                "option": "3 minutes",
                 "checked": true
             }
         ]
@@ -698,7 +694,7 @@
                 "checked": true
             },
             {
-                "option": "arking on the roadway",
+                "option": "Parking on the roadway",
                 "checked": false
             }
         ]
@@ -728,7 +724,7 @@
                 "checked": true
             },
             {
-                "option": "mmediately behind pedestrian crossings",
+                "option": "immediately behind pedestrian crossings",
                 "checked": false
             },
             {
@@ -749,7 +745,7 @@
                 "checked": true
             },
             {
-                "option": "ay never project over the front of the vehicle",
+                "option": "may never project over the front of the vehicle",
                 "checked": false
             }
         ]
@@ -779,7 +775,7 @@
                 "checked": true
             },
             {
-                "option": "here is no need to stop",
+                "option": "there is no need to stop",
                 "checked": false
             },
             {
@@ -919,14 +915,10 @@
                 "checked": false
             },
             {
-                "option": "1000 kg",
+                "option": "1000 kg. Total mass of vehicle and trailer shouldnt exceed 3500kg.",
                 "checked": true
             }
         ]
-    },
-    {
-        "question": "Total mass of vehicle and trailer shouldnt exceed 3500kg.",
-        "options": []
     },
     {
         "question": "What should I be aware of when using an adaptive cruise control system?",
