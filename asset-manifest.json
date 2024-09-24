@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/german-driving-theory-flashcards/static/css/main.54fafe32.css",
-    "main.js": "/german-driving-theory-flashcards/static/js/main.621883e0.js",
+    "main.css": "/german-driving-theory-flashcards/static/css/main.05952cf6.css",
+    "main.js": "/german-driving-theory-flashcards/static/js/main.38e02bfa.js",
     "static/js/453.27309c4d.chunk.js": "/german-driving-theory-flashcards/static/js/453.27309c4d.chunk.js",
     "index.html": "/german-driving-theory-flashcards/index.html",
-    "main.54fafe32.css.map": "/german-driving-theory-flashcards/static/css/main.54fafe32.css.map",
-    "main.621883e0.js.map": "/german-driving-theory-flashcards/static/js/main.621883e0.js.map",
+    "main.05952cf6.css.map": "/german-driving-theory-flashcards/static/css/main.05952cf6.css.map",
+    "main.38e02bfa.js.map": "/german-driving-theory-flashcards/static/js/main.38e02bfa.js.map",
     "453.27309c4d.chunk.js.map": "/german-driving-theory-flashcards/static/js/453.27309c4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54fafe32.css",
-    "static/js/main.621883e0.js"
+    "static/css/main.05952cf6.css",
+    "static/js/main.38e02bfa.js"
   ]
 }
